@@ -7,7 +7,7 @@ Das "TBS1-Board" ist ein Übungsboard zur Programmierung von Mikrocontrollern. E
 ![TBS1-Board 2017](TBS1_Board_2017.png)
 
 - [Projektdokumentation (Auszug)](Projektdokumentation_2017_Auszug.pdf)
-- [Schaltung und Platinenlayout](Schaltung und Platinenlayout)
+- [Schaltung und Platinenlayout](Schaltung und Platinenlayout/)
 
 ## Weiterentwicklung
 
